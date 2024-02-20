@@ -1,0 +1,11 @@
+https://docutils.sourceforge.io/rst.html#toc-entry-5https://docutils.sourceforge.io/rst.html#toc-entry-2
+https://mail.python.org/pipermail/python-dev/2002-August/027299.html
+https://github.github.com/gfm/#disallowed-raw-html-extension-
+https://docutils.sourceforge.io/rst.html#toc-entry-5
+https://docutils.sourceforge.io/rst.html#toc-entry-2
+https://mail.python.org/pipermail/python-dev/2002-August/027299.html
+https://docutils.sourceforge.io/rst.html#toc-entry-2
+https://github.github.com/gfm/#disallowed-raw-html-extension-SHA256
+https://github.github.com/gfm/#disallowed-raw-html-extension-JS/WASM
+https://docutils.sourceforge.io/rst.html#toc-entry-5https://github.github.com/gfm/#autolinks-extension-SPECS/KEYSTONEMIDDLEWARE/KILO2023.1/*
+https://github.github.com/gfm/#autolinks-extension-:ref⚾:'search'xenajunotab
